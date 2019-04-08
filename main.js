@@ -1,6 +1,5 @@
 
 let now = new Date()
-console.log(now.getHours(), 'This is the new time')
 let newHour = new Date().getHours()
 let greetMessage
 switch (true) {
